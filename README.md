@@ -8,11 +8,8 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
 - [Dataset](#dataset)
-- [Evaluation](#evaluation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
