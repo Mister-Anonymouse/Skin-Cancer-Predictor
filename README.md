@@ -34,56 +34,23 @@ The Skin Cancer Predictor is a machine learning model that uses a dataset of ski
 
 ### Installation
 
-1. Download the Jupyter Notebook from the releases tab:
-
+  Download the Jupyter Notebook from the releases tab:
   
-
-2. Create a virtual environment (recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
-   ```
-
-3. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+  https://github.com/Mister-Anonymouse/Skin-Cancer-Predictor/releases
 
 ## Usage
 
-1. Run the application:
+1. Open the notebook in any preferred Python IDE.
 
-   ```bash
-   python app.py
-   ```
+2. Run the codes in all the code cell.
 
-2. Open a web browser and navigate to `http://localhost:5000` to access the Skin Cancer Predictor.
+4. Upload an image of a skin lesion for analysis.
 
-3. Upload an image of a skin lesion for analysis.
-
-4. The model will provide a probability score indicating the likelihood of skin cancer.
-
-## Model Training
-
-If you want to retrain the skin cancer prediction model with your dataset, follow these steps:
-
-1. Prepare your dataset in the required format.
-
-2. Update the model training script with your dataset and model architecture.
-
-3. Run the training script to train the model.
-
-4. Save the trained model and update the application with the new model weights.
+5. The model will provide a probability score indicating the likelihood of skin cancer.
 
 ## Dataset
 
-The skin cancer predictor uses a dataset of skin lesion images for training and prediction. You can find the dataset used in this project in the `dataset` folder. If you plan to use your own dataset, make sure it is properly labeled and structured for training.
-
-## Evaluation
-
-To evaluate the performance of the model, various metrics such as accuracy, precision, recall, and F1-score can be calculated. These metrics help assess the model's ability to correctly predict skin cancer. You can find the evaluation results in the `evaluation` folder.
+The skin cancer predictor uses a dataset of skin lesion images for training and prediction. You can find the dataset used in this project in the `scd` folder. If you plan to use your own dataset, make sure it is properly labeled and structured for training.
 
 ## Contributing
 
@@ -96,7 +63,3 @@ If you want to contribute to the Skin Cancer Predictor project, please follow th
 3. Make your changes and submit a pull request.
 
 4. Your contribution will be reviewed and merged if it meets the project's standards.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
