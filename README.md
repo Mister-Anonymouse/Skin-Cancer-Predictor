@@ -1,5 +1,4 @@
 # Skin-Cancer-Predictor
-# Skin Cancer Predictor
 
 ## Table of Contents
 
@@ -35,12 +34,9 @@ The Skin Cancer Predictor is a machine learning model that uses a dataset of ski
 
 ### Installation
 
-1. Clone the repository:
+1. Download the Jupyter Notebook from the releases tab:
 
-   ```bash
-   git clone https://github.com/yourusername/skin-cancer-predictor.git
-   cd skin-cancer-predictor
-   ```
+  
 
 2. Create a virtual environment (recommended):
 
