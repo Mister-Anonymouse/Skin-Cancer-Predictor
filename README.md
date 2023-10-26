@@ -1,4 +1,5 @@
 # Skin-Cancer-Predictor
+This is a basic Image Classification App I made for a college Mini-Project.
 
 ## Table of Contents
 
